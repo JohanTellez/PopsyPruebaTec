@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|c:\\users\\johan\\source\\repos\\popsypruebatec\\popsypruebatec\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|solutionrelative:popsypruebatec\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|c:\\users\\johan\\source\\repos\\popsypruebatec\\popsypruebatec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|solutionrelative:popsypruebatec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|c:\\users\\johan\\source\\repos\\popsypruebatec\\popsypruebatec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|solutionrelative:popsypruebatec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|c:\\users\\johan\\source\\repos\\popsypruebatec\\popsypruebatec\\popsypruebatec.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|solutionrelative:popsypruebatec\\popsypruebatec.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|c:\\users\\johan\\source\\repos\\popsypruebatec\\popsypruebatec\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B018BB-E6B2-4130-973D-27FD1E30F2B1}|PopsyPruebaTec\\PopsyPruebaTec.csproj|solutionrelative:popsypruebatec\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PopsyPruebaTec.http",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\PopsyPruebaTec.http",
+              "RelativeDocumentMoniker": "PopsyPruebaTec\\PopsyPruebaTec.http",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\PopsyPruebaTec.http",
+              "RelativeToolTip": "PopsyPruebaTec\\PopsyPruebaTec.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-02T20:25:15.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\appsettings.json",
+              "RelativeDocumentMoniker": "PopsyPruebaTec\\appsettings.json",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\appsettings.json",
+              "RelativeToolTip": "PopsyPruebaTec\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T20:25:13.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\Program.cs",
+              "RelativeDocumentMoniker": "PopsyPruebaTec\\Program.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\Program.cs",
+              "RelativeToolTip": "PopsyPruebaTec\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T19:42:19.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "PopsyPruebaTec\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "PopsyPruebaTec\\Controllers\\TareaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T19:41:39.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PopsyPruebaTec\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\PopsyPruebaTec\\PopsyPruebaTec\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PopsyPruebaTec\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T19:41:16.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
